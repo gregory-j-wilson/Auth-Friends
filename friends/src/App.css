@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(255, 247, 137);
+  font-family: 'Alata', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+
+button {
+  font-size: 1.5rem;
+  text-decoration: none;
+  width: 150px;
+  height: 40px;
+
+}
+
+button a {
+  text-decoration: none;
+  color: black;
+}
+
+img {
+  width: 30%;
+}
+
+.login2 {
+  font-size: 1rem;
+  text-decoration: none;
+  width: 90px;
+  height: 30px;
+}
+
+.login2 a {
+  text-decoration: none;
+  color: black;
+}
+
+Link {
+  text-decoration: none;
+}
+
+.add-new-friend-button {
+  width: 300px;
+}
+
